@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "button",
+          "onClick": {
+            "name": "Script"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "button",
+          "x": 397,
+          "y": 174
+        }
+      }
+    ]
+  }
+}

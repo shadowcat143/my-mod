@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "meow232:blocks/three",
+    "up": "meow232:blocks/one",
+    "north": "meow232:blocks/three",
+    "east": "meow232:blocks/two",
+    "south": "meow232:blocks/two",
+    "west": "meow232:blocks/one",
+    "particle": "meow232:blocks/three"
+  }
+}
